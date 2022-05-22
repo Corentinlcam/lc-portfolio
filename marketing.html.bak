@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<!--
+
+-->
+<html>
+	<head>
+		<title>Corentin Le Cam Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+			<div id="page-wrapper">
+					<header id="header">
+						<h1><a href="index.html">Corentin Le</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Accueil</a></li>
+											<li><a href="parcours.html">Parcours</a></li>
+											<li><a href="marketing.html">Marketing</a></li>
+											<li><a href="communication.html">Communication</a></li>
+											<li><a href="vente.html">Vente</a></li>
+											<li><a href="creation.html">Création</a></li>
+											<li><a href="contact.html">Contact</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+
+					<article id="main">
+						<header>
+							<h2>Marketing</h2>
+							<p>Bienvenue sur ma compétence marketing</p>
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+<h3>Mes compétences en marketing :</h3>
+<p>-Analyser l'environnement d'une entreprise en repérant et
+appréciant les sources d'informations (fiabilité et pertinence)</p>
+<p>-Mettre en œuvre une étude de marché dans un environnement
+simple</p>
+<p>-Choisir une cible et un positionnement en fonction de la
+segmentation du marché</p>
+<p>-Concevoir une offre cohérente et éthique en termes de produits,
+de prix, de distribution et de communication</p>
+
+								<h3>Mettre en œuvre une étude de marché dans un environnement simple :</h3>
+								<p>Dans cette vidéo, j'illustre par un exemple comment je suis capable de mener une étude de marché.</p>
+
+							<center><iframe width="560" height="315" src="https://www.youtube.com/embed/oFMUF7z_Ix8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<h3>Résumé de la vidéo : </h3>
+<p>Dans cette vidéo je répond aux questions suivante :</p>
+<p><strong>Quels sont les documents que je choisis de présenter pour illustrer mes acquis ?</strong></p>
+<p>Je vous présente mon étude de marché réalisé dans le cadre des SAE du semestre 2 pour l'entreprise SICABA</p>
+<p><strong>Quel était la demande ou le besoin ?</strong></p>
+<p>Le besoin été d'analysé le marché pour par la suite proposé une nouvelle offre sur le marché du steack haché</p>
+<p><strong>Quelle compétence ai-je travaillées avec ce document ?</strong></p>
+<p>J'ai travailler plusieurs compétence, notament au niveau de l'organisation, de la recherche, de l'autonomie</p>
+<p><strong>Quels savoir-faire ou compétences ai-je acquis ?</strong></p>
+<p>J'ai appris a concevoir une base de donnée de sorte à répertorié toutes les offres sur le marché</p>
+<p><strong>Quelles difficultés ai-je pu rencontrer ?</strong></p>
+<p>Nous avons rencontré quelques difficultés à répertorié tous les magasins et boucherie </p>
+<p><strong>Comment me suis-je adapté à ces difficultés ?</strong></p>
+<p> Nous avons utilisé des outils google map et nous nous sommes renseigner auprès de la population locale</p>
+<p><strong>Quels sont les points forts de ma démarche et du résultat obtenu ?</strong></p>
+<p>Nous avons réussi a avoir une organisation optimale pour très vite rendre nos travaux</p>
+							</div>
+						</section>
+
+						<section class="wrapper style5">
+							<div class="inner">
+
+								<h3>Compétence 2 : Concevoir une offre cohérente et éthique en termes de produits, de prix, de distribution et de communication</h3>
+								<p>Dans cette vidéo, j'illustre par un exemple comment j'ai conçu une offre commercial.</p>
+
+							<center><iframe width="560" height="315" src="https://www.youtube.com/embed/E_eCvpmxZ9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<h3>Résumé de la vidéo : </h3>
+<p>Dans cette vidéo je répond aux questions suivante :</p>
+<p><strong>Quels sont les documents que je choisis de présenter pour illustrer mes acquis ?</strong></p>
+<p>J'ai fait le choix de présenter comment nous avons conçu une offre commercial dans le cadre des SAE du semestre 2 pour l'entreprise SICABA</p>
+<p><strong>Quel était la demande ou le besoin ?</strong></p>
+<p>Le besoin été de crée une offre commercial afin de vendre des steacks hachés</p>
+<p><strong>Quelle compétence ai-je travaillées avec ce document ?</strong></p>
+<p>J'ai travailler plusieurs compétence, notament au niveau de l'organisation, de la recherche, de l'autonomie, dans la création d'un questionnaire</p>
+<p><strong>Quels savoir-faire ou compétences ai-je acquis ?</strong></p>
+<p>J'ai appris a concevoir et analysé un questionnaire</p>
+<p><strong>Quelles difficultés ai-je pu rencontrer ?</strong></p>
+<p>Nous avons rencontré quelques difficultés pour obtenir des réponses à notre questionnaire </p>
+<p><strong>Comment me suis-je adapté à ces difficultés</strong></p>
+<p> Nous avons fait le choix d'intérogé des membres de notre famille et des amis</p>
+<p><strong>Quels sont les points forts de ma démarche et du résultat obtenu ?</strong></p>
+<p>Nous avons réussi à concevoir une offre qui peut directement venir concurrencer le marché actuel</p>
+							</div>
+						</section>
+
+					</article>
+
+
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Corentin Le Cam</li>
+						</ul>
+					</footer>
+
+			</div>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

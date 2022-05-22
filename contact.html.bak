@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<!--
+
+-->
+<html>
+	<head>
+		<title>Corentin Le Cam Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+			<div id="page-wrapper">
+					<header id="header">
+						<h1><a href="index.html">Corentin Le</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Accueil</a></li>
+											<li><a href="generic.html">Mon Histoire</a></li>
+											<li><a href="generic.html">Marketing</a></li>
+											<li><a href="elements.html">Communication</a></li>
+											<li><a href="elements.html">Vente</a></li>
+											<li><a href="contact.html">Contact</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+									<!-- Main -->
+										<article id="main">
+											<header>
+												<h2>Contactez moi</h2>
+												<p>Ici, vous renseignez vos coordonnées afin de me contacter</p>
+											</header>
+											<section class="wrapper style5">
+												<div class="inner">
+
+
+
+													<section>
+														<h4>Formulaire de contact</h4>
+														<form method="post" action="#">
+															<div class="row gtr-uniform">
+																<div class="col-6 col-12-xsmall">
+																	<input type="text" name="demo-name" id="demo-name" value="" placeholder="Nom" />
+																</div>
+																<div class="col-6 col-12-xsmall">
+																	<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+																</div>
+																<div class="col-12">
+																	<select name="demo-category" id="demo-category">
+																		<option value="">- Raison-</option>
+																		<option value="1">Renseignement</option>
+																		<option value="1">Demande GFX OU VFX</option>
+																		<option value="1">Recrutement</option>
+																	</select>
+																</div>
+
+																<div class="col-12">
+																	<textarea name="demo-message" id="demo-message" placeholder="Entrer votre message" rows="6"></textarea>
+																</div>
+																<div class="col-12">
+																	<ul class="actions">
+																		<li><input type="submit" value="Envoyer" class="primary" /></li>
+																		<li><input type="reset" value="Recommancer" /></li>
+																	</ul>
+																</div>
+															</div>
+														</form>
+													</section>
+										</article>
+
+										<footer id="footer">
+											<ul class="copyright">
+												<li>&copy; Corentin Le Cam</li>
+											</ul>
+										</footer>
+
+								</div>
+
+
+								<script src="assets/js/jquery.min.js"></script>
+								<script src="assets/js/jquery.scrollex.min.js"></script>
+								<script src="assets/js/jquery.scrolly.min.js"></script>
+								<script src="assets/js/browser.min.js"></script>
+								<script src="assets/js/breakpoints.min.js"></script>
+								<script src="assets/js/util.js"></script>
+								<script src="assets/js/main.js"></script>
+
+						</body>
+					</html>

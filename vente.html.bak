@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<!--
+
+-->
+<html>
+	<head>
+		<title>Corentin Le Cam Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+			<div id="page-wrapper">
+					<header id="header">
+						<h1><a href="index.html">Corentin Le</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Accueil</a></li>
+											<li><a href="parcours.html">Parcours</a></li>
+											<li><a href="marketing.html">Marketing</a></li>
+											<li><a href="communication.html">Communication</a></li>
+											<li><a href="vente.html">Vente</a></li>
+											<li><a href="creation.html">Création</a></li>
+											<li><a href="contact.html">Contact</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+
+					<article id="main">
+						<header>
+							<h2>Vente</h2>
+							<p>Bienvenue sur ma compétence vente </p>
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+							<div class="col-6 col-12-medium">
+											<h5>Mes compétences en vente:</h5>
+											<ol>
+												<li>Préparer un plan de découverte qui permette de profiler le client et découvrir ses besoin.</li>
+												<li>Concevoir un argumentaire de vente qui permette de proposer une solution adaptée aux besoins du client</li>
+												<li>Concevoir des OAV efficaces</li>
+												<li>Evaluer la performance commerciale au moyen d'indicateurs</li>
+												<li>Recourir aux techniques adaptées à la démarche de prospection</li>
+												<li>Recourir aux codes d'expression spécifiques et professionnels</li>
+												
+											</ol>
+
+								<h3>Compétence : Concevoir un argumentaire de vente qui permette de proposer une solution adaptée aux besoins du client</h3>
+								<p>Je vous présente comment j'ai sû concevoir un argumentaire de vente</p>
+
+							<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DLZdzfYJ0oQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></center>
+<h3>Résumé de la vidéo : </h3>
+<p>Dans cette vidéo je répond aux questions suivante :</p>
+<p><strong>Quels sont les documents que je choisis de présenter pour illustrer mes acquis ?</strong></p>
+<p>Je vous présente mon argumentaire dans le cadre d'un cas de négociation pour l'entreprise Gargantua</p>
+<p><strong>Quel était la demande ou le besoin ?</strong></p>
+<p>Le besoin été de vendre des bébés arbre pour des cadeaux entre entreprise</p>
+<p><strong>Quelle compétence ai-je travaillées avec ce document ?</strong></p>
+<p>J'ai travailler plusieurs compétence, l'élaboration d'un powerpoint, de vente, synthétisé et surtout ciblé les envies du client</p>
+<p><strong>Quels savoir-faire ou compétences ai-je acquis ?</strong></p>
+<p>J'ai appris a conseiller, pour répondre au mieux au besoinb de mon client</p>
+<p><strong>Quelles difficultés ai-je pu rencontrer ?</strong></p>
+<p>Le client souhaité utilisé pleinement son budget </p>
+<p><strong>Comment me suis-je adapté à ces difficultés ?</strong></p>
+<p>j'ai utilisé un devis pour argumenté sur le prix et ainsi vendre d'avantage</p>
+<p><strong>Quels sont les points forts de ma démarche et du résultat obtenu ?</strong></p>
+<p>J'ai réussi à satisfaire les besoins de l'entreprise via mon argumentation</p>
+							</div>
+						</section>
+
+						<section class="wrapper style5">
+							<div class="inner">
+
+								<h3>Compétence 2 : Concevoir des OAV efficaces</h3>
+								<p>Dans cette vidéo, j'illustre par un exemple comment j'ai conçu une offre commercial.</p>
+
+							<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5K5rAEXKyRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<h3>Résumé de la vidéo : </h3>
+<p>Dans cette vidéo je répond aux questions suivante :</p>
+<p><strong>Quels sont les documents que je choisis de présenter pour illustrer mes acquis ?</strong></p>
+<p>Je vous présente mon argumentaire dans le cadre d'un cas de négociation pour l'entreprise Michelin</p>
+<p><strong>Quel était la demande ou le besoin ?</strong></p>
+<p>Le besoin été de vendre une solution par abonnement michelin</p>
+<p><strong>Quelle compétence ai-je travaillées avec ce document ?</strong></p>
+<p>J'ai travailler plusieurs compétence, l'élaboration d'un powerpoint, mais aussi l'élaboration d'un devis excel</p>
+<p><strong>Quels savoir-faire ou compétences ai-je acquis ?</strong></p>
+<p>J'ai appris a faire relevé à mon client les informations importante mais aussi à le guidé avec mes oav</p>
+<p>Avec les illustrations le client à plus facilement compris ses besoins</p>
+							</div>
+						</section>
+
+					</article>
+
+
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Corentin Le Cam</li>
+						</ul>
+					</footer>
+
+			</div>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<!--
+
+-->
+<html>
+	<head>
+		<title>Corentin Le Cam Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+			<div id="page-wrapper">
+					<header id="header">
+						<h1><a href="index.html">Corentin Le</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Accueil</a></li>
+											<li><a href="parcours.html">Parcours</a></li>
+											<li><a href="marketing.html">Marketing</a></li>
+											<li><a href="communication.html">Communication</a></li>
+											<li><a href="vente.html">Vente</a></li>
+											<li><a href="creation.html">Création</a></li>
+											<li><a href="contact.html">Contact</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+
+					<article id="main">
+						<header>
+							<h2>Parcours</h2>
+							<p>D'où je viens ? Quelles sont mes ambitions ?</p>
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+
+								<h3>Présentation de mon parcours</h3>
+
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/5K5rAEXKyRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h2> Résumé de la vidéo : </h2>
+	<p>Dans cette vidéo je parle de mon parcours scolaire, avant d'intégré le BUT Technique de commercialisation 
+	j'ai obtenu un bts électrotechnique, je suis actuellement entrain de complété mes connaissances avec le BUT pour par la suite travailler dans un service de marketing, 
+	crée mon entreprise en alliant commerce et matériel industriel/ électrique, car lors de mon projet en BTS j'ai rencontré quelques soucis dans la recherhe du matériel nécessaire..</p
+							</div>
+						</section>
+
+
+					</article>
+
+
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Corentin Le Cam</li>
+						</ul>
+					</footer>
+
+			</div>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

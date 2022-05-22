@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<!--
+
+-->
+<html>
+	<head>
+		<title>Corentin Le Cam Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+			<div id="page-wrapper">
+					<header id="header">
+						<h1><a href="index.html">Corentin Le</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Accueil</a></li>
+											<li><a href="parcours.html">Mon Histoire</a></li>
+											<li><a href="marketing.html">Marketing</a></li>
+											<li><a href="communication.html">Communication</a></li>
+											<li><a href="vente.html">Vente</a></li>
+											<li><a href="contact.html">Contact</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+
+					<article id="main">
+						<header>
+							<h2>Mes créations</h2>
+							<p>Voici mes projets</p>
+						</header>
+						<section>
+		<div class="box alt">
+								<div class="row gtr-50 gtr-uniform">
+									<center><div class="col-10"><span class="image fit"><img src="images/deplianta4.jpg" alt="" /></span></div></center>
+									<center><div class="col-10"><span class="image fit"><img src="images/interieurfini.jpg" alt="" /></span></div></center>
+									<center><div class="col-10"><span class="image fit"><img src="" alt="" /></span></div></center>
+									<center><div class="col-10"><span class="image fit"><img src="images/depliantv3.jpg" alt="" /></span></div></center>
+									<center><div class="col-10"><span class="image fit"><img src="images/intern2.jpg" alt="" /></span></div></center>
+								</div>
+							</div>
+						</section>
+
+					</article>
+
+
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Corentin Le Cam</li>
+						</ul>
+					</footer>
+
+			</div>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
